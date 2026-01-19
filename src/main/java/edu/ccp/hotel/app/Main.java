@@ -50,7 +50,8 @@ public class Main {
                 new Money(30000)
         );
 
-        // 8. Print output (for screenshot evidence)
+
+        System.out.println("Hotel Reservation System started successfully.");
         System.out.println("Hotel Chain: " + chain.getName().getValue());
         System.out.println("Hotel: " + hotel.getName().getValue());
         System.out.println("Room Type: " + deluxeRoom.getName().getValue());
