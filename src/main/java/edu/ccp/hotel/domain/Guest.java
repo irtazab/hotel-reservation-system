@@ -7,6 +7,7 @@ public class Guest {
 
     private final Name name;
     private final Identity identity;
+// Guest must not be created without a valid identity
 
     public Guest(Name name, Identity identity) {
         if (name == null) {
