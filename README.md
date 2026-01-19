@@ -26,10 +26,3 @@ This is a Java-based Hotel Reservation System developed using Object-Oriented Pr
 
 ## Author
 Student CCP Submission
-
-## Project Structure
-
-- domain: Core business entities
-- value: Value objects with validation
-- app: Application entry point
-- test: Unit tests using JUnit
